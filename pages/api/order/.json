@@ -1,0 +1,489 @@
+[
+    {
+        "_id": "64270939187f075dfcce2640",
+        "customer": "abhin dev",
+        "address": {
+            "Address": "karimbanal house kavumannam karlad",
+            "City": "wayanad",
+            "State": "Kerala",
+            "pinCode": "673575"
+        },
+        "phone": "6235354432",
+        "phone2": "",
+        "item": {
+            "products": [
+                {
+                    "_id": "6409a6d1c8363009643569e1",
+                    "title": "Hair Growth Oil",
+                    "desc": "Kalyaniyammas Hair Drops is a premium organic hair oil \nthat is carefully crafted with 100% natural coconut oil and herbs.",
+                    "img": [
+                        "/img/Kalyaniyammas Hair Drops 200ml/kalyani amma hair oil.webp"
+                    ],
+                    "prices": [
+                        {
+                            "text": "200ml",
+                            "price": 999,
+                            "_id": "6409a6d1c8363009643569e2",
+                            "img": [
+                                "/img/Kalyaniyammas Hair Drops 200ml/kalyani amma hair oil.webp",
+                                "/img/Kalyaniyammas Hair Drops 200ml/kalyaniamma hair oil backside.webp"
+                            ]
+                        },
+                        {
+                            "text": "100ml",
+                            "price": 499,
+                            "_id": "6422ad46a787d139fe631a34",
+                            "img": [
+                                "/img/Kalyaniyammas Hair Drops 100ml/front kalyaniammas hair oil.webp",
+                                "/img/Kalyaniyammas Hair Drops 100ml/kalyaniammas hair oil back.webp"
+                            ]
+                        }
+                    ],
+                    "createdAt": "2023-03-09T09:28:49.910Z",
+                    "updatedAt": "2023-03-09T09:28:49.910Z",
+                    "__v": 0,
+                    "details": [
+                        {
+                            "text": "Kalyaniyammas Hair Drops is a premium organic hair oil that is carefully crafted with 100% natural coconut oil and herbs. This hair oil is designed to provide an all-in-one solution for those who suffer from hair fall, weak hair roots, and hair loss. The powerful blend of coconut oil and herbs in this hair oil works synergistically to repair and rejuvenate your hair and scalp, promoting healthy hair growth and reversing the balding process.\nOur hair drops contain precious herbs that have been used for centuries for their anti-hair fall properties. These herbs work together to strengthen the hair follicles and nourish the scalp, helping to control hair loss and prevent future damage. The unique formula of Kalyaniyammas Hair Drops is designed to provide deep nourishment to the hair, making it thicker, stronger, and healthier.\nKalyaniyammas Hair Drops is a natural solution to hair loss and thinning hair, providing you with long-lasting results without any harmful chemicals or side effects. With regular use of Kalyaniyammas Hair Drops, you will experience a noticeable improvement in the health and appearance of your hair, leaving you with beautiful and radiant locks. So, if you're looking for a natural and effective way to promote healthy hair growth and prevent hair fall, look no further than Kalyaniyammas Hair Drops.",
+                            "title": "Discription",
+                            "_id": "6422b02fa787d139fe631a37"
+                        },
+                        {
+                            "text": "1. Start by washing your hair with a mild shampoo or natural hibiscus leaf powder. \n2. Part your hair into sections and apply the oil to your scalp and hair, making sure to cover  each strand.\n3. Massage the scalp with your fingers for a few minutes to promote blood circulation and to ensure that the oil is\n     well-absorbed.\n4. Leave the oil on for at least 30 minutes, or overnight for best results. \n5. Rinse your hair with lukewarm water and shampoo again to remove any excess oil. \n6. Repeat this process at least twice a week for best results. How long does it take to see the the results? \n     This may  probably take 2-4 months to help you clear your dandruff and show improved hair growth. But results may\n     be seen faster in many peoples.\n",
+                            "title": "Usage",
+                            "_id": "6422b003a787d139fe631a36"
+                        },
+                        {
+                            "text": "Key Ingredients\n\nBringaraj\nNeela amari\nPoovamkurunnila\nBrahmi\nAmla\n",
+                            "title": "Ingredients",
+                            "_id": "6422afdaa787d139fe631a35"
+                        }
+                    ],
+                    "price": 999,
+                    "quantity": 1,
+                    "variant": "200ml"
+                },
+                {
+                    "_id": "6409a6d1c8363009643569e1",
+                    "title": "Hair Growth Oil",
+                    "desc": "Kalyaniyammas Hair Drops is a premium organic hair oil \nthat is carefully crafted with 100% natural coconut oil and herbs.",
+                    "img": [
+                        "/img/Kalyaniyammas Hair Drops 200ml/kalyani amma hair oil.webp"
+                    ],
+                    "prices": [
+                        {
+                            "text": "200ml",
+                            "price": 999,
+                            "_id": "6409a6d1c8363009643569e2",
+                            "img": [
+                                "/img/Kalyaniyammas Hair Drops 200ml/kalyani amma hair oil.webp",
+                                "/img/Kalyaniyammas Hair Drops 200ml/kalyaniamma hair oil backside.webp"
+                            ]
+                        },
+                        {
+                            "text": "100ml",
+                            "price": 499,
+                            "_id": "6422ad46a787d139fe631a34",
+                            "img": [
+                                "/img/Kalyaniyammas Hair Drops 100ml/front kalyaniammas hair oil.webp",
+                                "/img/Kalyaniyammas Hair Drops 100ml/kalyaniammas hair oil back.webp"
+                            ]
+                        }
+                    ],
+                    "createdAt": "2023-03-09T09:28:49.910Z",
+                    "updatedAt": "2023-03-09T09:28:49.910Z",
+                    "__v": 0,
+                    "details": [
+                        {
+                            "text": "Kalyaniyammas Hair Drops is a premium organic hair oil that is carefully crafted with 100% natural coconut oil and herbs. This hair oil is designed to provide an all-in-one solution for those who suffer from hair fall, weak hair roots, and hair loss. The powerful blend of coconut oil and herbs in this hair oil works synergistically to repair and rejuvenate your hair and scalp, promoting healthy hair growth and reversing the balding process.\nOur hair drops contain precious herbs that have been used for centuries for their anti-hair fall properties. These herbs work together to strengthen the hair follicles and nourish the scalp, helping to control hair loss and prevent future damage. The unique formula of Kalyaniyammas Hair Drops is designed to provide deep nourishment to the hair, making it thicker, stronger, and healthier.\nKalyaniyammas Hair Drops is a natural solution to hair loss and thinning hair, providing you with long-lasting results without any harmful chemicals or side effects. With regular use of Kalyaniyammas Hair Drops, you will experience a noticeable improvement in the health and appearance of your hair, leaving you with beautiful and radiant locks. So, if you're looking for a natural and effective way to promote healthy hair growth and prevent hair fall, look no further than Kalyaniyammas Hair Drops.",
+                            "title": "Discription",
+                            "_id": "6422b02fa787d139fe631a37"
+                        },
+                        {
+                            "text": "1. Start by washing your hair with a mild shampoo or natural hibiscus leaf powder. \n2. Part your hair into sections and apply the oil to your scalp and hair, making sure to cover  each strand.\n3. Massage the scalp with your fingers for a few minutes to promote blood circulation and to ensure that the oil is\n     well-absorbed.\n4. Leave the oil on for at least 30 minutes, or overnight for best results. \n5. Rinse your hair with lukewarm water and shampoo again to remove any excess oil. \n6. Repeat this process at least twice a week for best results. How long does it take to see the the results? \n     This may  probably take 2-4 months to help you clear your dandruff and show improved hair growth. But results may\n     be seen faster in many peoples.\n",
+                            "title": "Usage",
+                            "_id": "6422b003a787d139fe631a36"
+                        },
+                        {
+                            "text": "Key Ingredients\n\nBringaraj\nNeela amari\nPoovamkurunnila\nBrahmi\nAmla\n",
+                            "title": "Ingredients",
+                            "_id": "6422afdaa787d139fe631a35"
+                        }
+                    ],
+                    "price": 999,
+                    "quantity": 1,
+                    "variant": "200ml"
+                }
+            ],
+            "quantity": 2,
+            "total": 1998,
+            "orders": [
+                {
+                    "_id": "6426e45757072878bb2e5222",
+                    "customer": "abhin dev",
+                    "address": {
+                        "Address": "karimbanal house kavumannam karlad",
+                        "City": "wayanad",
+                        "State": "Kerala",
+                        "pinCode": "673575"
+                    },
+                    "phone": "6235354427",
+                    "phone2": "",
+                    "item": {
+                        "products": [
+                            {
+                                "_id": "6409a6d1c8363009643569e1",
+                                "title": "Hair Growth Oil",
+                                "desc": "Kalyaniyammas Hair Drops is a premium organic hair oil \nthat is carefully crafted with 100% natural coconut oil and herbs.",
+                                "img": [
+                                    "/img/Kalyaniyammas Hair Drops 200ml/kalyani amma hair oil.webp"
+                                ],
+                                "prices": [
+                                    {
+                                        "text": "200ml",
+                                        "price": 999,
+                                        "_id": "6409a6d1c8363009643569e2",
+                                        "img": [
+                                            "/img/Kalyaniyammas Hair Drops 200ml/kalyani amma hair oil.webp",
+                                            "/img/Kalyaniyammas Hair Drops 200ml/kalyaniamma hair oil backside.webp"
+                                        ]
+                                    },
+                                    {
+                                        "text": "100ml",
+                                        "price": 499,
+                                        "_id": "6422ad46a787d139fe631a34",
+                                        "img": [
+                                            "/img/Kalyaniyammas Hair Drops 100ml/front kalyaniammas hair oil.webp",
+                                            "/img/Kalyaniyammas Hair Drops 100ml/kalyaniammas hair oil back.webp"
+                                        ]
+                                    }
+                                ],
+                                "createdAt": "2023-03-09T09:28:49.910Z",
+                                "updatedAt": "2023-03-09T09:28:49.910Z",
+                                "__v": 0,
+                                "details": [
+                                    {
+                                        "text": "Kalyaniyammas Hair Drops is a premium organic hair oil that is carefully crafted with 100% natural coconut oil and herbs. This hair oil is designed to provide an all-in-one solution for those who suffer from hair fall, weak hair roots, and hair loss. The powerful blend of coconut oil and herbs in this hair oil works synergistically to repair and rejuvenate your hair and scalp, promoting healthy hair growth and reversing the balding process.\nOur hair drops contain precious herbs that have been used for centuries for their anti-hair fall properties. These herbs work together to strengthen the hair follicles and nourish the scalp, helping to control hair loss and prevent future damage. The unique formula of Kalyaniyammas Hair Drops is designed to provide deep nourishment to the hair, making it thicker, stronger, and healthier.\nKalyaniyammas Hair Drops is a natural solution to hair loss and thinning hair, providing you with long-lasting results without any harmful chemicals or side effects. With regular use of Kalyaniyammas Hair Drops, you will experience a noticeable improvement in the health and appearance of your hair, leaving you with beautiful and radiant locks. So, if you're looking for a natural and effective way to promote healthy hair growth and prevent hair fall, look no further than Kalyaniyammas Hair Drops.",
+                                        "title": "Discription",
+                                        "_id": "6422b02fa787d139fe631a37"
+                                    },
+                                    {
+                                        "text": "1. Start by washing your hair with a mild shampoo or natural hibiscus leaf powder. \n2. Part your hair into sections and apply the oil to your scalp and hair, making sure to cover  each strand.\n3. Massage the scalp with your fingers for a few minutes to promote blood circulation and to ensure that the oil is\n     well-absorbed.\n4. Leave the oil on for at least 30 minutes, or overnight for best results. \n5. Rinse your hair with lukewarm water and shampoo again to remove any excess oil. \n6. Repeat this process at least twice a week for best results. How long does it take to see the the results? \n     This may  probably take 2-4 months to help you clear your dandruff and show improved hair growth. But results may\n     be seen faster in many peoples.\n",
+                                        "title": "Usage",
+                                        "_id": "6422b003a787d139fe631a36"
+                                    },
+                                    {
+                                        "text": "Key Ingredients\n\nBringaraj\nNeela amari\nPoovamkurunnila\nBrahmi\nAmla\n",
+                                        "title": "Ingredients",
+                                        "_id": "6422afdaa787d139fe631a35"
+                                    }
+                                ],
+                                "price": 999,
+                                "quantity": 1,
+                                "variant": "200ml"
+                            }
+                        ],
+                        "quantity": 1,
+                        "total": 999,
+                        "orders": [
+                            {
+                                "_id": "642271933a81d2f9f5a24a11",
+                                "customer": "appu",
+                                "address": {
+                                    "Address": "karimbanal house kavumannam karlad",
+                                    "City": "wayanad",
+                                    "State": "Kerala",
+                                    "pinCode": "673575"
+                                },
+                                "phone": "6235354432",
+                                "phone2": "",
+                                "item": {
+                                    "products": [
+                                        {
+                                            "_id": "6409a6d1c8363009643569e1",
+                                            "title": "Scalp Brush",
+                                            "desc": "Lorem ipsum dolor sit amet consectetur. Congue ipsum velit integer iaculis arcu at nisi. Venenatis non vitae hac a pellentesque vitae dictumst urna.",
+                                            "img": [
+                                                "/img/brush.png",
+                                                "asdaf"
+                                            ],
+                                            "prices": [
+                                                {
+                                                    "text": "200ml",
+                                                    "price": 2,
+                                                    "_id": "6409a6d1c8363009643569e2"
+                                                }
+                                            ],
+                                            "createdAt": "2023-03-09T09:28:49.910Z",
+                                            "updatedAt": "2023-03-09T09:28:49.910Z",
+                                            "__v": 0,
+                                            "price": 2,
+                                            "quantity": 1,
+                                            "variant": "200ml"
+                                        },
+                                        {
+                                            "_id": "6409a6d1c8363009643569e1",
+                                            "title": "Scalp Brush",
+                                            "desc": "Lorem ipsum dolor sit amet consectetur. Congue ipsum velit integer iaculis arcu at nisi. Venenatis non vitae hac a pellentesque vitae dictumst urna.",
+                                            "img": [
+                                                "/img/brush.png",
+                                                "asdaf"
+                                            ],
+                                            "prices": [
+                                                {
+                                                    "text": "200ml",
+                                                    "price": 2,
+                                                    "_id": "6409a6d1c8363009643569e2"
+                                                }
+                                            ],
+                                            "createdAt": "2023-03-09T09:28:49.910Z",
+                                            "updatedAt": "2023-03-09T09:28:49.910Z",
+                                            "__v": 0,
+                                            "price": 2,
+                                            "quantity": 2,
+                                            "variant": "200ml"
+                                        }
+                                    ],
+                                    "quantity": 2,
+                                    "total": 10,
+                                    "orders": [],
+                                    "_persist": {
+                                        "version": -1,
+                                        "rehydrated": true
+                                    }
+                                },
+                                "total": "60",
+                                "status": 1,
+                                "method": 0
+                            },
+                            {
+                                "_id": "64229a3eee5e2b5bdab884e1",
+                                "customer": "abhin dev",
+                                "address": {
+                                    "Address": "karimbanal house kavumannam karlad",
+                                    "City": "wayanad",
+                                    "State": "Kerala",
+                                    "pinCode": "673575"
+                                },
+                                "phone": "6235354432",
+                                "phone2": "",
+                                "item": {
+                                    "products": [
+                                        {
+                                            "_id": "6409a6d1c8363009643569e1",
+                                            "title": "Scalp Brush",
+                                            "desc": "Lorem ipsum dolor sit amet consectetur. Congue ipsum velit integer iaculis arcu at nisi. Venenatis non vitae hac a pellentesque vitae dictumst urna.",
+                                            "img": [
+                                                "/img/brush.png",
+                                                "asdaf"
+                                            ],
+                                            "prices": [
+                                                {
+                                                    "text": "200ml",
+                                                    "price": 2,
+                                                    "_id": "6409a6d1c8363009643569e2"
+                                                }
+                                            ],
+                                            "createdAt": "2023-03-09T09:28:49.910Z",
+                                            "updatedAt": "2023-03-09T09:28:49.910Z",
+                                            "__v": 0,
+                                            "price": 2,
+                                            "quantity": 1,
+                                            "variant": "200ml"
+                                        },
+                                        {
+                                            "_id": "6409a6d1c8363009643569e1",
+                                            "title": "Scalp Brush",
+                                            "desc": "Lorem ipsum dolor sit amet consectetur. Congue ipsum velit integer iaculis arcu at nisi. Venenatis non vitae hac a pellentesque vitae dictumst urna.",
+                                            "img": [
+                                                "/img/brush.png",
+                                                "asdaf"
+                                            ],
+                                            "prices": [
+                                                {
+                                                    "text": "200ml",
+                                                    "price": 2,
+                                                    "_id": "6409a6d1c8363009643569e2"
+                                                }
+                                            ],
+                                            "createdAt": "2023-03-09T09:28:49.910Z",
+                                            "updatedAt": "2023-03-09T09:28:49.910Z",
+                                            "__v": 0,
+                                            "price": 2,
+                                            "quantity": 2,
+                                            "variant": "200ml"
+                                        }
+                                    ],
+                                    "quantity": 2,
+                                    "total": 10,
+                                    "orders": [],
+                                    "_persist": {
+                                        "version": -1,
+                                        "rehydrated": true
+                                    }
+                                },
+                                "total": "60",
+                                "status": 0,
+                                "method": 0
+                            }
+                        ],
+                        "_persist": {
+                            "version": -1,
+                            "rehydrated": true
+                        }
+                    },
+                    "total": "1049",
+                    "status": 0,
+                    "method": 0
+                },
+                {
+                    "_id": "642271933a81d2f9f5a24a11",
+                    "customer": "appu",
+                    "address": {
+                        "Address": "karimbanal house kavumannam karlad",
+                        "City": "wayanad",
+                        "State": "Kerala",
+                        "pinCode": "673575"
+                    },
+                    "phone": "6235354432",
+                    "phone2": "",
+                    "item": {
+                        "products": [
+                            {
+                                "_id": "6409a6d1c8363009643569e1",
+                                "title": "Scalp Brush",
+                                "desc": "Lorem ipsum dolor sit amet consectetur. Congue ipsum velit integer iaculis arcu at nisi. Venenatis non vitae hac a pellentesque vitae dictumst urna.",
+                                "img": [
+                                    "/img/brush.png",
+                                    "asdaf"
+                                ],
+                                "prices": [
+                                    {
+                                        "text": "200ml",
+                                        "price": 2,
+                                        "_id": "6409a6d1c8363009643569e2"
+                                    }
+                                ],
+                                "createdAt": "2023-03-09T09:28:49.910Z",
+                                "updatedAt": "2023-03-09T09:28:49.910Z",
+                                "__v": 0,
+                                "price": 2,
+                                "quantity": 1,
+                                "variant": "200ml"
+                            },
+                            {
+                                "_id": "6409a6d1c8363009643569e1",
+                                "title": "Scalp Brush",
+                                "desc": "Lorem ipsum dolor sit amet consectetur. Congue ipsum velit integer iaculis arcu at nisi. Venenatis non vitae hac a pellentesque vitae dictumst urna.",
+                                "img": [
+                                    "/img/brush.png",
+                                    "asdaf"
+                                ],
+                                "prices": [
+                                    {
+                                        "text": "200ml",
+                                        "price": 2,
+                                        "_id": "6409a6d1c8363009643569e2"
+                                    }
+                                ],
+                                "createdAt": "2023-03-09T09:28:49.910Z",
+                                "updatedAt": "2023-03-09T09:28:49.910Z",
+                                "__v": 0,
+                                "price": 2,
+                                "quantity": 2,
+                                "variant": "200ml"
+                            }
+                        ],
+                        "quantity": 2,
+                        "total": 10,
+                        "orders": [],
+                        "_persist": {
+                            "version": -1,
+                            "rehydrated": true
+                        }
+                    },
+                    "total": "60",
+                    "status": 1,
+                    "method": 0
+                },
+                {
+                    "_id": "64229a3eee5e2b5bdab884e1",
+                    "customer": "abhin dev",
+                    "address": {
+                        "Address": "karimbanal house kavumannam karlad",
+                        "City": "wayanad",
+                        "State": "Kerala",
+                        "pinCode": "673575"
+                    },
+                    "phone": "6235354432",
+                    "phone2": "",
+                    "item": {
+                        "products": [
+                            {
+                                "_id": "6409a6d1c8363009643569e1",
+                                "title": "Scalp Brush",
+                                "desc": "Lorem ipsum dolor sit amet consectetur. Congue ipsum velit integer iaculis arcu at nisi. Venenatis non vitae hac a pellentesque vitae dictumst urna.",
+                                "img": [
+                                    "/img/brush.png",
+                                    "asdaf"
+                                ],
+                                "prices": [
+                                    {
+                                        "text": "200ml",
+                                        "price": 2,
+                                        "_id": "6409a6d1c8363009643569e2"
+                                    }
+                                ],
+                                "createdAt": "2023-03-09T09:28:49.910Z",
+                                "updatedAt": "2023-03-09T09:28:49.910Z",
+                                "__v": 0,
+                                "price": 2,
+                                "quantity": 1,
+                                "variant": "200ml"
+                            },
+                            {
+                                "_id": "6409a6d1c8363009643569e1",
+                                "title": "Scalp Brush",
+                                "desc": "Lorem ipsum dolor sit amet consectetur. Congue ipsum velit integer iaculis arcu at nisi. Venenatis non vitae hac a pellentesque vitae dictumst urna.",
+                                "img": [
+                                    "/img/brush.png",
+                                    "asdaf"
+                                ],
+                                "prices": [
+                                    {
+                                        "text": "200ml",
+                                        "price": 2,
+                                        "_id": "6409a6d1c8363009643569e2"
+                                    }
+                                ],
+                                "createdAt": "2023-03-09T09:28:49.910Z",
+                                "updatedAt": "2023-03-09T09:28:49.910Z",
+                                "__v": 0,
+                                "price": 2,
+                                "quantity": 2,
+                                "variant": "200ml"
+                            }
+                        ],
+                        "quantity": 2,
+                        "total": 10,
+                        "orders": [],
+                        "_persist": {
+                            "version": -1,
+                            "rehydrated": true
+                        }
+                    },
+                    "total": "60",
+                    "status": 0,
+                    "method": 0
+                }
+            ],
+            "_persist": {
+                "version": -1,
+                "rehydrated": true
+            }
+        },
+        "total": "2048",
+        "status": 1,
+        "method": 0
+    }
+]
